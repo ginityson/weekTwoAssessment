@@ -1,0 +1,20 @@
+h1 {
+  color: teal;
+}
+
+.red{
+ width: 100px;
+ height: 100px;
+ background-color: red;
+ color: red;
+ float: left;
+}
+
+
+
+.yellow{
+ width: 100px;
+ height: 100px;
+ background-color: yellow;
+ float: left;
+}
